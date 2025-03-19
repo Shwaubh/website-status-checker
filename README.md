@@ -5,7 +5,7 @@
 **Tech Stack:** 
 - Python
 - Requests Library
-- CSV (for storing results)
+- Log (for storing results)
 
 ## Key Features
 
