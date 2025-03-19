@@ -1,0 +1,3 @@
+2025-03-19 11:49:54,769 - INFO - https://www.google.com is up and running
+2025-03-19 11:49:55,566 - WARNING - https://httpbin.org/status/503 is down - 503
+2025-03-19 11:49:57,278 - ERROR - https://www.nonexistentwebsiteabc123.com is not reachable/available - Reason : HTTPSConnectionPool(host='www.nonexistentwebsiteabc123.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1052a3750>: Failed to resolve 'www.nonexistentwebsiteabc123.com' ([Errno 8] nodename nor servname provided, or not known)"))
